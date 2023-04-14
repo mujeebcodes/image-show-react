@@ -1,0 +1,10 @@
+.image-list {
+    columns: 6 200px;
+    column-gap: 10px;
+}
+
+.image-list article {
+    width: 20%;
+    height: 300px;
+}
+
